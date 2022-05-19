@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-***:rose: (Github, Slack, Emojipedia) Welcome to my Github Account.***
+***:rose: Welcome to my Github Account.***
 
 Here are some ideas to get you started:
 
