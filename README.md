@@ -1,6 +1,6 @@
-# Hi there 👋
+![alt text](https://github.com/MHT-IMRAN/MHT-IMRAN/blob/master/Hai.png?raw=true)
 
-![alt text](https://github.com/MHT-IMRAN/MHT-IMRAN/blob/master/WEB%20Development.jpg?raw=true)
+# Hi there 👋
 
 ***:rose: Welcome to my Github Account.***
 
