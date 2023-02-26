@@ -1,7 +1,5 @@
 ![alt text](https://github.com/MHT-IMRAN/MHT-IMRAN/blob/master/Hai(1).png?raw=true)
 
-# Hi there 👋
-
 ***:rose: Welcome to my Github Account.***
 
 Here are some ideas to get you started:
