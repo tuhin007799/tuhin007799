@@ -1,4 +1,4 @@
-![alt text](https://github.com/MHT-IMRAN/MHT-IMRAN/blob/master/Hai(1).png?raw=true)
+![alt text](https://github.com/MHT-IMRAN/MHT-IMRAN/blob/master/Hai (1).png?raw=true)
 
 # Hi there 👋
 
